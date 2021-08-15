@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+##Kickstarting with Excel
 
 ## Overview of Project
 
@@ -19,7 +19,7 @@
 		We can take into the account of the holiday season, where people are more so spending money and time for their familes and/or loved ones. If we consider holidays such as Valentine's Day, Christmas, and/or Thanksgiving, we see certain 
 		months are effected. For example, February has an increase of successful plays compared to January. 
 		
-		![Chart 1](https://github.com/Greekman12490/Module_1_Challenge/tree/main/Resources/Theater_Outcomes_vs_Launch.png)
+		[Chart 1](https://github.com/Greekman12490/Module_1_Challenge/tree/main/Resources/Theater_Outcomes_vs_Launch.png/)
 		
 		
 	### Analysis of Outcomes Based on Goals
@@ -29,7 +29,7 @@
 		However, between thirty-five and forty thousand dollars ($35,000 - $40,000), you are more likely to succeed. What we can get out of this, keep your goals small or within a certain threshold if you want to be successful. 
 		It is okay, to set certain goals where others have failed, but, something has to be done differently that warrants success.
 		
-		![Chart 2](https://github.com/Greekman12490/Module_1_Challenge/tree/main/Resources/Outcomes_vs_Goals.png)
+		[Chart 2](https://github.com/Greekman12490/Module_1_Challenge/tree/main/Resources/Outcomes_vs_Goals.png/)
 		
 	### Challenges and Difficulties Encountered
 
@@ -37,7 +37,7 @@
 		display of the results. I went back and changed the equation that brought me that correct results. Certain equations that were involved needed more understanding of the logic behind it.
 		This is normal and should be done first with any equation and/or code. In the long run, it will help me be better at analytics.
 		
-		![Image 1](https://github.com/Greekman12490/Module_1_Challenge/tree/main/Resources/Potential_Error.png)
+		[Image 1](https://github.com/Greekman12490/Module_1_Challenge/tree/main/Resources/Potential_Error.png/)
 		
 
 ## Results
@@ -58,6 +58,6 @@
 	
 		A bar graph could take the place of the line graph. It could be easier to read depending on the individual.
 		
-		![Chart 3](https://github.com/Greekman12490/Module_1_Challenge/tree/main/Resources/Theater_Outcomes_vs_Launch_Bar_Graph.png)
+		[Chart 3](https://github.com/Greekman12490/Module_1_Challenge/tree/main/Resources/Theater_Outcomes_vs_Launch_Bar_Graph.png/)
 		
 		
